@@ -1,6 +1,8 @@
 # Kakuro
 A Windows program for playing Kakuro puzzles. Not completely finished yet.
 
+![Example image](/Images/kakuro.png)
+
 # Controls
 - Arrow keys to move
 - 1 to 9 to input value
