@@ -743,7 +743,7 @@ namespace Kakuro
             ResetColor();
             Exit = true;
             Running = false;
-            e.Cancel = false;
+            e.Cancel = true;
         }
         
         public static void RunGame(int SaveNumber)
